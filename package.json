@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juunegreiros/nodejs-api-rest.git"
+    "url": "git+https://github.com/ScreamingArrow/nodejs-api-rest"
   },
-  "author": "juliana negreiros",
+  "author": "Lucas Gomes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juunegreiros/nodejs-api-rest/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/juunegreiros/nodejs-api-rest#readme",
+  "homepage": "https://github.com/ScreamingArrow/nodejs-api-rest#readme",
   "dependencies": {
     "consign": "^0.1.6",
     "express": "^4.17.1",
